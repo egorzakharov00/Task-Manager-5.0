@@ -2,7 +2,7 @@
 
 ###### The project
 
-This project is a java program built as a project management system for a small structural engineering firm called “Poised”.
+This project is a java program built as a project management system for a small structural engineering firm called “Poised”. It is a refactored version of Task-Manager-Refactor that includes Javadocs showing an understanding of software documentation.
 
 ###### Usefulness
 
